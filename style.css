@@ -1,0 +1,40 @@
+#container,h2,#innerDiv1,#innerDiv2,#innerDiv3,span{
+padding: 10px;
+margin: 20px;
+}
+
+h1
+{ 
+    background-color: lightcoral;
+}
+span
+{
+    background-color: lightseagreen;
+}
+#container{
+    border: 1px dotted rgb(0, 68, 255);
+   
+}
+h2{
+    border: 1px solid rgb(255, 0, 0);
+   
+}
+#innerDiv1{
+    border: 1px solid rgb(255, 0, 179);
+    
+}
+#innerDiv2{
+    border: 1px solid rgb(0, 225, 255);
+    
+}
+#innerDiv3{
+    border: 1px solid rgb(25, 59, 50);
+    
+}
+span{
+    border: 1px solid rgb(255, 0, 0);
+    
+    
+}
+
+    
